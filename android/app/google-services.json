@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811567011575",
+    "firebase_url": "https://bagdetection-7e4d5-default-rtdb.firebaseio.com",
+    "project_id": "bagdetection-7e4d5",
+    "storage_bucket": "bagdetection-7e4d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811567011575:android:eef07052b3abf2eb0c25f2",
+        "android_client_info": {
+          "package_name": "com.example.bag_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811567011575-971kgsj5tlc5hp34i82jbt3fk1k1tp65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcqa7MHwmYcgJQ2oYQMXHF3GvpqIJMu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811567011575-971kgsj5tlc5hp34i82jbt3fk1k1tp65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
